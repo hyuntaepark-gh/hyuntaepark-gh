@@ -7,12 +7,29 @@ Currently expanding my analytics portfolio with real-world projects.
 
 ---
 
-## 🚀 Skills & Tools
-**Languages:** SQL, Python, R  
-**Analytics:** Tableau, Excel, Power BI  
-**Database:** MySQL, phpMyAdmin  
-**ERP:** SAP S/4HANA (O2C, MM Labs)  
-**Other:** Git, Jupyter Notebook
+## 🔧 Skills & Tools
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)
+
+### Analytics & Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge)
+
+### ERP / SAP  
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=black&style=for-the-badge)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
 ---
 
