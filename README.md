@@ -16,8 +16,12 @@ Currently expanding my analytics portfolio with real-world projects.
 
 ### Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Orange](https://img.shields.io/badge/Orange-FAA916?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgGAWjYBSMglEwCqRmYGBg+M/AwPCfkGEQmoYB0bwBiG2DNhA0QZGBiYNAxMwGQ0DAGTIDAwMAACzrhD/3aMcZQAAAABJRU5ErkJggg==&style=for-the-badge)
+![Gephi](https://img.shields.io/badge/Gephi-4E6E8E?logo=gephi&logoColor=white&style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
