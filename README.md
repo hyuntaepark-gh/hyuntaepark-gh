@@ -40,7 +40,7 @@ Currently expanding my analytics portfolio with real-world projects.
 ---
 
 ## 🚀 Featured Projects
-- 📊 Tableau Visualization Projects — https://github.com/hyuntaepark-gh/tableau-visualization-projects
+- 📊 Tableau Visualization Projects — https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects
 - ⚽ EPL Match Prediction System — https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System
 - 🏟 Moneyball Analysis — https://github.com/hyuntaepark-gh/Moneyball-Analysis
 - ₿ Bitcoin Price Regression — https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis
