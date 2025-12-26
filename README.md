@@ -39,8 +39,20 @@ Currently expanding my analytics portfolio with real-world projects.
 
 ---
 
-## 📚 Featured Projects
-### 📊 Marketing & Business Analytics
+## 🚀 Featured Projects
+- 📊 Tableau Visualization Projects — https://github.com/hyuntaepark-gh/tableau-visualization-projects
+- ⚽ EPL Match Prediction System — https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System
+- 🏟 Moneyball Analysis — https://github.com/hyuntaepark-gh/Moneyball-Analysis
+- ₿ Bitcoin Price Regression — https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis
+- ✈️ JFK Airport Web Scraping — https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping
+
+## 🌐 Portfolio
+- https://hyuntaepark-gh.github.io
+
+---
+
+## 📂 Other Work by Domain
+### 📈 Marketing & Business Analytics
 - Kaggle NBA Analytics (Python + Tableau Dashboard)
 - Customer Behavior Analysis
 - Market Research Visualization
@@ -50,7 +62,7 @@ Currently expanding my analytics portfolio with real-world projects.
 - Normalization & ERD Construction
 - Real-world business schema (Client, Contracts, Company DB)
 
-### 🏭 SAP S/4HANA Labs
+### 🧩 SAP S/4HANA Labs
 - Lab 1 – Order to Cash Process Summary
 - Lab 2 – Materials Management Process Summary
 
