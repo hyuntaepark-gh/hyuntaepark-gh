@@ -1,4 +1,4 @@
-#👋 Hi, I'm Hyuntae Park!
+# 👋 Hi, I'm Hyuntae Park!
 
 Data Analyst · Marketing Analytics · Business Intelligence
 
