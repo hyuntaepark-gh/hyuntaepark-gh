@@ -43,11 +43,11 @@ Building end-to-end analytics projects that translate data into business insight
 ---
 
 ## 🚀 Featured Projects
-- 📊 Visualization Projects (Tableau, Orange, Gephi) — https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects
-- ⚽ EPL Match Prediction System (Python (PCA/MDS), Clustering) — https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System
-- 🏟 Moneyball Analysis (Python, Data Manipulation, Visualization) — https://github.com/hyuntaepark-gh/Moneyball-Analysis
-- ₿ Bitcoin Price Regression — https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis
 - ✈️ JFK Airport Web Scraping — https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping
+- ₿ Bitcoin Price Regression — https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis
+- 📊 Visualization Projects (Tableau, Orange, Gephi) — https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects
+- 🏟 Moneyball Analysis (Python, Data Manipulation, Visualization) — https://github.com/hyuntaepark-gh/Moneyball-Analysis
+- ⚽ EPL Match Prediction System (Python (PCA/MDS), Clustering) — https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System
 
 ## 🌐 Portfolio
 - https://hyuntaepark-gh.github.io
