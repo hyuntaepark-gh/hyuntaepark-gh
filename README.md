@@ -65,9 +65,26 @@ Building end-to-end analytics projects that translate data into business insight
 - Normalization & ERD Construction
 - Real-world business schema (Client, Contracts, Company DB)
 
-### 🧩 SAP S/4HANA Labs
-- Lab 1 – Order to Cash Process Summary
-- Lab 2 – Materials Management Process Summary
+### SAP S/4HANA Labs (ERP Process Analysis)
+
+Hands-on SAP S/4HANA labs using the Global Bike dataset, focused on understanding
+end-to-end enterprise processes and internal cost flows.
+
+- **Order-to-Cash (SD & FI)**
+  - Customer creation, sales order processing, delivery, billing, and payment
+- **Materials Management (MM)**
+  - Procurement, goods receipt, inventory management
+- **Production Planning & Execution (PP)**
+  - BOM explosion, routing, production orders, goods receipt
+- **Controlling (CO-CCA & CO-PC)**
+  - Cost center accounting, overhead allocation, activity pricing
+  - Product costing and standard price calculation
+- **Case Study**
+  - Tricycle production case with Important Figures Log
+  - Analysis of system-calculated quantities and cost flows
+
+Deliverables include detailed process summaries, screenshots, and reflections
+on how ERP data supports operational and financial decision-making.
 
 ---
 
