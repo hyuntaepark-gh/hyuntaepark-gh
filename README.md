@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hyuntae Park!
 
-Data Analyst · Marketing Analytics · Business Intelligence
+## Data Analyst · Marketing Analytics · Business Intelligence
 
 Aspiring data analyst specializing in data visualization and analytical storytelling.
 Hands-on experience with SQL, Python, Tableau, and SAP S/4HANA.
