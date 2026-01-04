@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Hyuntae Park!
+👋 Hi, I'm Hyuntae Park!
 
-### Marketing Analytics · Business Analytics · Data Enthusiast  
-Graduate student focused on marketing analytics, business intelligence, and data-driven decision making.  
-Experienced with SQL, Python, Tableau, and ERP (SAP S/4HANA).  
-Currently expanding my analytics portfolio with real-world projects.
+Data Analyst · Marketing Analytics · Business Intelligence
+
+Aspiring data analyst specializing in data visualization and analytical storytelling.
+Hands-on experience with SQL, Python, Tableau, and SAP S/4HANA.
+Building end-to-end analytics projects that translate data into business insights.
 
 ---
 
