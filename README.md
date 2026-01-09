@@ -55,7 +55,7 @@ Building end-to-end analytics projects that translate data into business insight
 ---
 
 ## 📂 Other Work by Domain
-### 📈 Marketing & Business Analytics
+### 📈 Business Analytics
 - Kaggle NBA Analytics (Python + Tableau Dashboard)
 - Customer Behavior Analysis
 - Market Research Visualization
