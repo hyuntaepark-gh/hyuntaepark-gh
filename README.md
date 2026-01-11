@@ -79,7 +79,7 @@ end-to-end enterprise processes and internal cost flows.
 - **Controlling (CO-CCA & CO-PC)**
   - Cost center accounting, overhead allocation, activity pricing
   - Product costing and standard price calculation
-- **ERP Case Study
+- ** ERP Case Study
   - Production planning and MRP analysis using SAP S/4HANA
   - Evaluation of system-calculated quantities and cost flows
 
