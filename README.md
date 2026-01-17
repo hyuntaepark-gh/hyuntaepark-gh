@@ -88,6 +88,16 @@ Deliverables include detailed process summaries, screenshots, and reflections
 on how ERP data supports operational and financial decision-making.
 
 ---
+## Professional Affiliations
+- Member, Association for Computing Machinery (ACM)
+- Member, ACM SIGKDD (Special Interest Group on Knowledge Discovery and Data Mining)
+
+## Focus Areas
+- Applied Data Analytics & Machine Learning
+- Predictive Modeling & Optimization
+- Data-Driven Decision Making
+
+---
 
 ## 🌱 What I'm Working On
 - Building a full analytics portfolio  
