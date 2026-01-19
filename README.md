@@ -82,6 +82,11 @@ Hands-on SAP S/4HANA labs using Global Bike dataset — demonstrates **end-to-en
   - Production planning and MRP analysis using SAP S/4HANA
   - Evaluation of system-calculated quantities and cost flows
 
+- **Order-to-Cash (SD & FI):** Customer creation, sales order processing, delivery, billing, and payment
+- **Materials Management (MM):** Procurement, goods receipt, inventory management
+- **Production Planning & Execution (PP):** BOM explosion, routing, production orders, goods receipt
+- **Controlling (CO-CCA & CO-PC):** Cost center accounting, overhead allocation, activity pricing, product costing
+- **ERP Case Study:** Production planning & MRP analysis, evaluation of system-calculated quantities and cost flows
 
 Deliverables include detailed process summaries, screenshots, and reflections
 on how ERP data supports operational and financial decision-making.
