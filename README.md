@@ -65,10 +65,10 @@ Building end-to-end analytics projects that translate data into business insight
 - Normalization & ERD Construction
 - Real-world business schema (Client, Contracts, Company DB)
 
-### 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis
+### 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis — https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs
 
-Hands-on SAP S/4HANA labs using the Global Bike dataset, focused on understanding
-end-to-end enterprise processes and internal cost flows.
+
+Hands-on SAP S/4HANA labs using Global Bike dataset — demonstrates **end-to-end ERP process understanding and cost flow interpretation**.
 
 - **Order-to-Cash (SD & FI)**
   - Customer creation, sales order processing, delivery, billing, and payment
