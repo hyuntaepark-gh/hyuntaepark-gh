@@ -44,11 +44,11 @@ Building end-to-end analytics projects that translate data into business insight
 
 ## 🚀 Featured Projects
 
-- 🛫 **JFK Airport Web Scraping** — [**View**](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
-- ₿ **Bitcoin Price Regression** — [**View**](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)
-- 📊 **Visualization Projects (Tableau, Orange, Gephi)** — [**View**](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
-- ⚾ **Moneyball Analysis (Python, Data Manipulation, Visualization)** — [**View**](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
-- ⚽ **EPL Match Prediction System (PCA/MDS, Clustering)** — [**View**](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)
+- 🛫 **JFK Airport Web Scraping** - [**View**](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
+- ₿ **Bitcoin Price Regression** - [**View**](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)
+- 📊 **Visualization Projects (Tableau, Orange, Gephi)** - [**View**](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+- ⚾ **Moneyball Analysis (Python, Data Manipulation, Visualization)** - [**View**](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
+- ⚽ **EPL Match Prediction System (PCA/MDS, Clustering)** - [**View**](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)
 
 ## 🌐 Portfolio
 - 🔗 **Portfolio Website** — [View](https://hyuntaepark-gh.github.io)
@@ -66,7 +66,7 @@ Building end-to-end analytics projects that translate data into business insight
 - Normalization & ERD Construction
 - Real-world business schema (Client, Contracts, Company DB)
 
-### 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis — [**View**](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
+### 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis - [**View**](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
 
 Hands-on SAP S/4HANA labs using Global Bike dataset — demonstrates **end-to-end ERP process understanding and cost flow interpretation**.
 
