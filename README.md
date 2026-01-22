@@ -47,7 +47,7 @@ I build portfolio projects focused on end-to-end analytics, from data collection
   Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
 
-- **Olist SQL Analytics**  
+- **Olist SQL Analytics** (In Progress)
   Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
 
@@ -60,10 +60,24 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 
 ---
 
-### 📦 Forecasting / Operations (In Progress)
-- **AI Warehouse Shipment Forecasting**  
-  Demand forecasting project focused on shipment volume prediction and operational planning for warehouse logistics.  
+### 📦 Forecasting / Operations
+- **AI Warehouse Shipment Forecasting** (In Progress)  
+  AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce delays, and optimize logistics costs.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
+
+---
+
+### 🏬 Data Engineering / Data Warehouse
+- **End-to-End Retail Data Warehouse** (In Progress)
+  End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema warehouse modeling, SQL analytics, forecasting, and dashboards.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)
+
+---
+
+### 🧠 Business Analytics / Decision Modeling
+- **Customer Churn Decision Analytics** (In Progress)
+  Decision-oriented churn analytics: cost-sensitive modeling, threshold optimization, and profit-based intervention strategies (beyond pure prediction).  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)
 
 ---
 
