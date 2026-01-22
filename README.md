@@ -49,18 +49,18 @@ optimize operations, and support data-driven strategic decisions.
   AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce shipment delay risks, and optimize logistics costs at scale.
 
 ### 🏬 Data Engineering / Data Warehouse
-- **[End-to-End Retail Data Warehouse (In Progress)](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)** 🛠
+- **[End-to-End Retail Data Warehouse (In Progress)](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)** 🛠  
   End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema data warehouse modeling, SQL analytics, demand forecasting, and decision-oriented dashboards.
 
 ### 🗄️ SQL / Database
 - **[SQL Database Analysis (EC2 + Apache + CGI + MariaDB)](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)**  
   Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.
 
-- **[Olist SQL Analytics (In Progress)](https://github.com/hyuntaepark-gh/olist-sql-analytics)** 🛠
+- **[Olist SQL Analytics (In Progress)](https://github.com/hyuntaepark-gh/olist-sql-analytics)** 🛠  
   Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.
 
 ### 🧠 Business Analytics / Decision Modeling
-- **[Customer Churn Decision Analytics (In Progress)](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)** 🛠  
+- **[Customer Churn Decision Analytics (In Progress)](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)** 🛠    
   Decision-oriented churn analytics project focusing on cost-sensitive modeling, threshold optimization, and profit-based intervention strategies beyond pure prediction.
 
 ### 🏢 ERP / SAP
