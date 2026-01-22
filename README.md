@@ -51,8 +51,6 @@ I build portfolio projects focused on end-to-end analytics, from data collection
   Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
 
----
-
 ### 🏢 ERP / SAP
 - **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis**  
   Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.  
@@ -64,8 +62,6 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 - **AI Warehouse Shipment Forecasting** (In Progress)  
   AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce delays, and optimize logistics costs.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
-
----
 
 ### 🏬 Data Engineering / Data Warehouse
 - **End-to-End Retail Data Warehouse** (In Progress)
