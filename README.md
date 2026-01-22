@@ -44,6 +44,28 @@ Building end-to-end analytics projects that translate data into business insight
 
 ## 🚀 Featured Projects
 
+Here are some of my highlighted projects showcasing **SQL, Analytics, Data Engineering, and business-focused problem solving**:
+
+- ✈️ **JFK Airport Web Scraping**  
+  Automated web scraping pipeline for airport-related data collection and analysis.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
+
+- 🪙 **Bitcoin Price Regression**  
+  Regression-based modeling project for analyzing and predicting Bitcoin price trends.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
+
+- 📊 **Visualization Projects (Tableau, Orange, Gephi)**  
+  BI dashboards and data visualization projects using multiple analytics tools.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+
+- ⚾ **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
+  Sports analytics project exploring performance metrics and team optimization insights.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
+
+- ⚽ **EPL Match Prediction System (PCA/MDS, Clustering)**  
+  Football match prediction project using dimensionality reduction and clustering techniques.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
+  
 ### 🗄️ SQL / Database
 - **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)** — 🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
 - **Olist SQL Analytics** — 🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
