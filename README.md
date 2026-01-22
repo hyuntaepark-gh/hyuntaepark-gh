@@ -56,8 +56,6 @@ I build portfolio projects focused on end-to-end analytics, from data collection
   Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
 
----
-
 ### 📦 Forecasting / Operations
 - **AI Warehouse Shipment Forecasting** (In Progress)  
   AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce delays, and optimize logistics costs.  
@@ -68,35 +66,25 @@ I build portfolio projects focused on end-to-end analytics, from data collection
   End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema warehouse modeling, SQL analytics, forecasting, and dashboards.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)
 
----
-
 ### 🧠 Business Analytics / Decision Modeling
 - **Customer Churn Decision Analytics** (In Progress)
   Decision-oriented churn analytics: cost-sensitive modeling, threshold optimization, and profit-based intervention strategies (beyond pure prediction).  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)
-
----
 
 ### 🌐 Web Data
 - **JFK Airport Web Scraping**  
   Automated web scraping pipeline for airport-related data collection and analysis.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
 
----
-
 ### 📊 BI / Visualization
 - **Tableau Visualization Projects**  
   Business dashboards and analytics visualizations created with Tableau.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
 
----
-
 ### 🤖 Machine Learning
 - **Bitcoin Price Regression**  
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
-
----
 
 ### ⚾ Sports Analytics
 - **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
