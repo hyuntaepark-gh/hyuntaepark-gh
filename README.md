@@ -45,49 +45,63 @@ Building end-to-end analytics projects that translate data into business insight
 ## 🚀 Featured Projects
 
 Here are some of my highlighted projects showcasing **SQL, Analytics, Data Engineering, and business-focused problem solving**:
+## 📂 Featured Projects (By Category)
 
-- ✈️ **JFK Airport Web Scraping**  
+### 🗄️ SQL / Database
+- **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)**  
+  Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
+
+- **Olist SQL Analytics**  
+  Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
+
+---
+
+### 🏢 ERP / SAP
+- **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis**  
+  Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
+
+---
+
+### 📦 Forecasting / Operations (In Progress)
+- **AI Warehouse Shipment Forecasting**  
+  Demand forecasting project focused on shipment volume prediction and operational planning for warehouse logistics.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
+
+---
+
+### 🌐 Web Data
+- **JFK Airport Web Scraping**  
   Automated web scraping pipeline for airport-related data collection and analysis.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
 
-- 🪙 **Bitcoin Price Regression**  
+---
+
+### 📊 BI / Visualization
+- **Tableau Visualization Projects**  
+  Business dashboards and analytics visualizations created with Tableau.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+
+---
+
+### 🤖 Machine Learning
+- **Bitcoin Price Regression**  
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
 
-- 📊 **Visualization Projects (Tableau, Orange, Gephi)**  
-  BI dashboards and data visualization projects using multiple analytics tools.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+- **EPL Match Prediction System (PCA/MDS, Clustering)**  
+  Football match prediction project using dimensionality reduction and clustering techniques.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
 
-- ⚾ **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
+---
+
+### ⚾ Sports Analytics
+- **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
   Sports analytics project exploring performance metrics and team optimization insights.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
 
-- ⚽ **EPL Match Prediction System (PCA/MDS, Clustering)**  
-  Football match prediction project using dimensionality reduction and clustering techniques.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
-  
-### 🗄️ SQL / Database
-- **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)** — 🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
-- **Olist SQL Analytics** — 🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
-
-### 🏢 ERP / SAP
-- **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis** — 🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
-
-### 📦 Forecasting / Operations (In Progress)
-- **AI Warehouse Shipment Forecasting** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
-
-### 🌐 Web Data
-- **JFK Airport Web Scraping** — 🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
-
-### 📊 BI / Visualization
-- **Tableau Visualization Projects** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
-
-### 🤖 Machine Learning
-- **Bitcoin Price Regression** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
-- **EPL Match Prediction System** — 🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
-
-### ⚾ Sports Analytics
-- **Moneyball Analysis** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
 
 ### 📌 Portfolio Website
 - **Portfolio Website** — 🔗 [View repo](https://github.com/hyuntaepark-gh/hyuntaepark-gh.github.io)
