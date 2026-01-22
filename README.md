@@ -96,3 +96,8 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 - Data Analytics & Machine Learning
 - Predictive Modeling & Optimization
 - Data-Driven Decision Making
+ 
+---
+
+![Hyuntae’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true&theme=dark)
+
