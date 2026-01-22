@@ -13,6 +13,7 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Data Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
