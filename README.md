@@ -31,7 +31,6 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=black&style=for-the-badge)
 ![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?logo=intuit&logoColor=white&style=for-the-badge)
 
-
 ### Tools
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
