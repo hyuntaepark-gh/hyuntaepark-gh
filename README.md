@@ -1,9 +1,9 @@
 # Hi, I'm Hyuntae Park 👋
 
 🎓 MS Business Analytics Student | 📊 Data Analytics & BI | 🗄️ SQL & Database | 🏢 ERP / SAP  
-I build portfolio projects focused on **end-to-end analytics**, from data collection and modeling to business insights and decision-making.
+I build portfolio projects focused on end-to-end analytics, from data collection and modeling to business insights and decision-making.
 
-🌐 **Portfolio Website:** [View](https://hyuntaepark-gh.github.io)
+📧 [Email](mailto:hyuntae.park.j@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/hyuntae-park-in) | 🌐 [Portfolio](https://hyuntaepark-gh.github.io)
 
 ---
 
@@ -109,9 +109,3 @@ I build portfolio projects focused on **end-to-end analytics**, from data collec
 - Data Analytics & Machine Learning
 - Predictive Modeling & Optimization
 - Data-Driven Decision Making
-
----
-
-## 📫 Contact
-- **Email:** [hyuntae.park.j@gmail.com](mailto:hyuntae.park.j@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hyuntae-park-in](https://www.linkedin.com/in/hyuntae-park-in)
