@@ -1,8 +1,9 @@
 # Hi, I'm Hyuntae Park 👋
 
-🎓 MS Business Analytics Student | 📊 Data Analytics & BI | 🗄️ SQL & Database | 🏢 ERP / SAP  
+###🎓 MS Business Analytics Student | 📊 Data Analytics & BI | 🗄️ SQL & Database | 🏢 ERP / SAP  
 
-I focus on AI-driven forecasting and data engineering solutions that improve operational efficiency and strategic decision-making.
+I build AI-driven forecasting and analytics solutions that unlock business value,
+optimize operations, and support data-driven strategic decisions.
 
 📧 [Email](mailto:hyuntae.park.j@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/hyuntae-park-in) | 🌐 [Portfolio](https://hyuntaepark-gh.github.io)
 
