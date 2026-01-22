@@ -39,8 +39,21 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
 ---
-
 ## 🚀 Featured Projects (By Category)
+
+### 📦 Forecasting / Operations (In Progress)
+- **AI Warehouse Shipment Forecasting**  
+  AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce shipment delay risks, and optimize logistics costs at scale.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
+
+---
+
+### 🏬 Data Engineering / Data Warehouse
+- **End-to-End Retail Data Warehouse** (In Progress)
+  End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema data warehouse modeling, SQL analytics, demand forecasting, and decision-oriented dashboards.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)
+
+---
 
 ### 🗄️ SQL / Database
 - **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)**  
@@ -51,40 +64,42 @@ I build portfolio projects focused on end-to-end analytics, from data collection
   Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
 
+---
+
+### 🧠 Business Analytics / Decision Modeling
+- **Customer Churn Decision Analytics** (In Progress) 
+  Decision-oriented churn analytics project focusing on cost-sensitive modeling, threshold optimization, and profit-based intervention strategies beyond pure prediction.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)
+
+---
+
 ### 🏢 ERP / SAP
 - **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis**  
   Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
 
-### 📦 Forecasting / Operations
-- **AI Warehouse Shipment Forecasting** (In Progress)  
-  AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce delays, and optimize logistics costs.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
-
-### 🏬 Data Engineering / Data Warehouse
-- **End-to-End Retail Data Warehouse** (In Progress)
-  End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema warehouse modeling, SQL analytics, forecasting, and dashboards.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)
-
-### 🧠 Business Analytics / Decision Modeling
-- **Customer Churn Decision Analytics** (In Progress)
-  Decision-oriented churn analytics: cost-sensitive modeling, threshold optimization, and profit-based intervention strategies (beyond pure prediction).  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)
-
-### 🌐 Web Data
-- **JFK Airport Web Scraping**  
-  Automated web scraping pipeline for airport-related data collection and analysis.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
+---
 
 ### 📊 BI / Visualization
 - **Tableau Visualization Projects**  
   Business dashboards and analytics visualizations created with Tableau.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
 
+---
+
+### 🌐 Web Data
+- **JFK Airport Web Scraping**  
+  Automated web scraping pipeline for airport-related data collection and analysis.  
+  🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
+
+---
+
 ### 🤖 Machine Learning
 - **Bitcoin Price Regression**  
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
+
+---
 
 ### ⚾ Sports Analytics
 - **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
@@ -94,7 +109,7 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 - **EPL Match Prediction System (PCA/MDS, Clustering)**  
   Football match prediction project using dimensionality reduction and clustering techniques.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
-  
+
 ---
 
 ## Professional Affiliations
