@@ -44,47 +44,31 @@ Building end-to-end analytics projects that translate data into business insight
 
 ## 🚀 Featured Projects
 
-Here are some of my highlighted projects showcasing **SQL, Analytics, Data Engineering, and business-focused problem solving**:
-
-### 🗄️ SQL / Database & Systems
-- **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)**  
-  Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
+### 🗄️ SQL / Database
+- **SQL Database Analysis (EC2 + Apache + CGI + MariaDB)** — 🔗 [View repo](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)
+- **Olist SQL Analytics** — 🔗 [View repo](https://github.com/hyuntaepark-gh/olist-sql-analytics)
 
 ### 🏢 ERP / SAP
-- **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis**  
-  Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
+- **SAP S/4HANA Labs – ERP Process & Cost Flow Analysis** — 🔗 [View repo](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
 
-### 📦 Operations / Forecasting (In Progress)
-- **AI Warehouse Shipment Forecasting**  
-  Demand forecasting project focused on shipment volume prediction and operational planning.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
+### 📦 Forecasting / Operations (In Progress)
+- **AI Warehouse Shipment Forecasting** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)
 
-### 🌐 Web Data & Analytics
-- **JFK Airport Web Scraping**  
-  Automated web scraping pipeline for airport-related data collection and analysis.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
+### 🌐 Web Data
+- **JFK Airport Web Scraping** — 🔗 [View repo](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
 
 ### 📊 BI / Visualization
-- **Tableau Visualization Projects**  
-  Business dashboards and analytics visualizations using Tableau.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+- **Tableau Visualization Projects** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
+
+### 🤖 Machine Learning
+- **Bitcoin Price Regression** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)
+- **EPL Match Prediction System** — 🔗 [View repo](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)
 
 ### ⚾ Sports Analytics
-- **Moneyball Analysis**  
-  Baseball analytics project exploring performance metrics and team optimization.  
-  🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
+- **Moneyball Analysis** — 🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
 
-
-- 🛫 **JFK Airport Web Scraping** - [**View**](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)
-- ₿ **Bitcoin Price Regression** - [**View**](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)
-- 📊 **Visualization Projects (Tableau, Orange, Gephi)** - [**View**](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)
-- ⚾ **Moneyball Analysis (Python, Data Manipulation, Visualization)** - [**View**](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
-- ⚽ **EPL Match Prediction System (PCA/MDS, Clustering)** - [**View**](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)
-
-## 🌐 Portfolio
-- 🔗 **Portfolio Website** — [View](https://hyuntaepark-gh.github.io)
+### 📌 Portfolio Website
+- **Portfolio Website** — 🔗 [View repo](https://github.com/hyuntaepark-gh/hyuntaepark-gh.github.io)
 
 ---
 
