@@ -16,10 +16,10 @@ I build portfolio projects focused on end-to-end analytics, from data collection
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Data Analytics & Visualization  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Orange](https://img.shields.io/badge/Orange-FAA916?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgGAWjYBSMglEwCqRmYGBg+M/AwPCfkGEQmoYB0bwBiG2DNhA0QZGBiYNAxMwGQ0DAGTIDAwMAACzrhD/3aMcZQAAAABJRU5ErkJggg==&style=for-the-badge)
-![Gephi](https://img.shields.io/badge/Gephi-4E6E8E?logo=gephi&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-FAA916?style=for-the-badge&logoColor=white)
+![Gephi](https://img.shields.io/badge/Gephi-4E6E8E?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
