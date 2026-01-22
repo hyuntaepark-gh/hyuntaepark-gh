@@ -118,13 +118,6 @@ Here are some of my highlighted projects showcasing **SQL, Analytics, Data Engin
 
 ---
 
-## 🌱 What I'm Working On
-- Building a full analytics portfolio  
-- Creating GitHub Pages portfolio site  
-- Expanding Python EDA and visualization projects  
-
----
-
 ## 📫 Contact
 - **Email:** (hyuntae.park.j@gmail.com)  
 - **LinkedIn:** (www.linkedin.com/in/hyuntae-park-in)  
