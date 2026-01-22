@@ -39,6 +39,10 @@ Building end-to-end analytics projects that translate data into business insight
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
+---
+
+### 📌 Portfolio Website
+- **Portfolio Website** — 🔗 [View repo](https://github.com/hyuntaepark-gh/hyuntaepark-gh.github.io)
 
 ---
 
@@ -101,42 +105,6 @@ Here are some of my highlighted projects showcasing **SQL, Analytics, Data Engin
 - **Moneyball Analysis (Python, Data Manipulation, Visualization)**  
   Sports analytics project exploring performance metrics and team optimization insights.  
   🔗 [View repo](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
-
-
-### 📌 Portfolio Website
-- **Portfolio Website** — 🔗 [View repo](https://github.com/hyuntaepark-gh/hyuntaepark-gh.github.io)
-
----
-
-## 📂 Other Work by Domain
-### 📈 Business Analytics
-- Kaggle NBA Analytics (Python + Tableau Dashboard)
-- Customer Behavior Analysis
-- Market Research Visualization
-
-### 🗄 SQL & Database Work
-- TradingDB Project (Schema Design + Queries)
-- Normalization & ERD Construction
-- Real-world business schema (Client, Contracts, Company DB)
-
-### 🧩 SAP S/4HANA Labs – ERP Process & Cost Flow Analysis - [**View**](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)
-
-Hands-on SAP S/4HANA labs using Global Bike dataset — demonstrates **end-to-end ERP process understanding and cost flow interpretation**.
-
-- **Order-to-Cash (SD & FI)**
-  - Customer creation, sales order processing, delivery, billing, and payment
-- **Materials Management (MM)**
-  - Procurement, goods receipt, inventory management
-- **Production Planning & Execution (PP)**
-  - BOM explosion, routing, production orders, goods receipt
-- **Controlling (CO-CCA & CO-PC)**
-  - Cost center accounting, overhead allocation, activity pricing
-  - Product costing and standard price calculation
-- ERP Case Study
-  - Production planning and MRP analysis using SAP S/4HANA
-  - Evaluation of system-calculated quantities and cost flows
-
-Deliverables include PDF walkthroughs with screenshots and reflections on ERP process execution and cost flow interpretation.
 
 ---
 ## Professional Affiliations
