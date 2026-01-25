@@ -5,7 +5,17 @@
 I build AI-driven forecasting and analytics solutions that unlock business value,
 optimize operations, and support data-driven strategic decisions.
 
-📧 [Email](mailto:hyuntae.park.j@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/hyuntae-park-in) | 🌐 [Portfolio](https://hyuntaepark-gh.github.io)
+<p align="left">
+  <a href="mailto:hyuntae.park.j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hyuntae-park-in">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://hyuntaepark-gh.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
