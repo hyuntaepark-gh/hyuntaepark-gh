@@ -44,7 +44,7 @@ optimize operations, and support data-driven strategic decisions.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Enterprise Systems
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=black&style=for-the-badge)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?logo=intuit&logoColor=white&style=for-the-badge)
 
 ### Tools
