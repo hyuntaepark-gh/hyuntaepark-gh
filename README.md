@@ -72,7 +72,7 @@ optimize operations, and support data-driven strategic decisions.
   Business dashboards and analytics visualizations created with Tableau.
 
 ### 🌐 Web Data
-- **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)**  
+- **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)** ✨  
   Automated web scraping pipeline for airport-related data collection and analysis.
 
 ### 🤖 Machine Learning
@@ -80,7 +80,7 @@ optimize operations, and support data-driven strategic decisions.
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.
 
 ### ⚾ Sports Analytics
-- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** ✨  
+- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)**
   Sports analytics project exploring performance metrics and team optimization insights.
 
 - **[EPL Team Style Analysis & Match Prediction System (PCA/MDS, Clustering)](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)** ✨  
