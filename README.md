@@ -76,14 +76,14 @@ optimize operations, and support data-driven strategic decisions.
   Automated web scraping pipeline for airport-related data collection and analysis.
 
 ### 🤖 Machine Learning
-- **[Bitcoin Price Regression]([https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)**  
+- **[Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)** ✨  
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.
 
 ### ⚾ Sports Analytics
-- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)**  
+- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** ✨  
   Sports analytics project exploring performance metrics and team optimization insights.
 
-- **[EPL Match Prediction System (PCA/MDS, Clustering)](https://github.com/hyuntaepark-gh/EPL-Match-Prediction-System)**  
+- **[EPL Team Style Analysis & Match Prediction System (PCA/MDS, Clustering)](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)** ✨  
   Football match prediction project using dimensionality reduction and clustering techniques.
 
 ---
