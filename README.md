@@ -36,7 +36,9 @@ optimize operations, and support data-driven strategic decisions.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black)
 
 ### Database & Querying 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
