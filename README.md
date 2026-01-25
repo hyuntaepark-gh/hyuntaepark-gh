@@ -76,7 +76,7 @@ optimize operations, and support data-driven strategic decisions.
   Automated web scraping pipeline for airport-related data collection and analysis.
 
 ### 🤖 Machine Learning
-- **[Bitcoin Price Regression](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)**  
+- **[Bitcoin Price Regression]([https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression)**  
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.
 
 ### ⚾ Sports Analytics
