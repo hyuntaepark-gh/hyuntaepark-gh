@@ -28,6 +28,7 @@ optimize operations, and support data-driven strategic decisions.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Data Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
