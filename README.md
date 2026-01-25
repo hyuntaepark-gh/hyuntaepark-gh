@@ -26,6 +26,7 @@ optimize operations, and support data-driven strategic decisions.
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Data Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -34,11 +35,12 @@ optimize operations, and support data-driven strategic decisions.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 ### Database & Querying 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Enterprise Systems
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=black&style=for-the-badge)
