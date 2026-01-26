@@ -98,7 +98,7 @@ optimize operations, and support data-driven strategic decisions.
   Regression-based modeling project for analyzing and predicting Bitcoin price trends.
 
 ### ⚾ Sports Analytics
-- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)**
+- **[Moneyball Analysis (Python, Data Manipulation, Visualization)](https://github.com/hyuntaepark-gh/Moneyball-Analysis)**  
   Sports analytics project exploring performance metrics and team optimization insights.
 
 - **[EPL Team Style Analysis & Match Prediction System (PCA/MDS, Clustering)](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)** ✨  
