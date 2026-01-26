@@ -2,9 +2,6 @@
 
 ### 🎓 MS Business Analytics Student | 📊 Data Analytics & BI | 🗄️ SQL & Database | 🏢 ERP / SAP  
 
-I build AI-driven forecasting and analytics solutions that unlock business value,
-optimize operations, and support data-driven strategic decisions.
-
 <p align="left">
   <a href="mailto:hyuntae.park.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -16,6 +13,9 @@ optimize operations, and support data-driven strategic decisions.
   <img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
+
+I build AI-driven forecasting and analytics solutions that unlock business value,
+optimize operations, and support data-driven strategic decisions.
 
 ---
 
