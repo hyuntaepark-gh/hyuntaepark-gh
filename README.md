@@ -74,7 +74,7 @@ optimize operations, and support data-driven strategic decisions.
 - **[SQL Database Analysis (EC2 + Apache + CGI + MariaDB)](https://github.com/hyuntaepark-gh/SQL-Database-Analysis)**  
   Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.
 
-- **[Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics)**
+- **[Olist SQL Analytics)](https://github.com/hyuntaepark-gh/olist-sql-analytics)**
   Advanced SQL analytics project using the Olist Brazilian e-commerce dataset, focusing on KPIs, cohorts, and funnel analysis.
 
 ### 🧠 Business Analytics / Decision Modeling
