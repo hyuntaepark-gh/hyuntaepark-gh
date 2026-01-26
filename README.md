@@ -82,7 +82,7 @@ optimize operations, and support data-driven strategic decisions.
   Decision-oriented churn analytics project focusing on cost-sensitive modeling, threshold optimization, and profit-based intervention strategies beyond pure prediction.
 
 ### 🏢 ERP / SAP
-- **[SAP S/4HANA Labs – ERP Process & Cost Flow Analysis](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)**  
+- **[SAP S/4HANA Labs – ERP Process & Cost Flow Analysis](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)** ✨ 
   Hands-on SAP S/4HANA labs using the Global Bike dataset, covering O2C, MM, PP, CO, and integrated ERP process flows.
 
 ### 📊 BI / Visualization
