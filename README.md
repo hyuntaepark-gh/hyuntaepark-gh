@@ -67,7 +67,7 @@ optimize operations, and support data-driven strategic decisions.
   AI-powered shipment forecasting and decision-support framework to improve warehouse operations efficiency, reduce shipment delay risks, and optimize logistics costs at scale.
 
 ### 🏬 Data Engineering / Data Warehouse
-- **[End-to-End Retail Data Warehouse (In Progress)](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)** 🛠  
+- **[End-to-End Retail Data Warehouse](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**       
   End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema data warehouse modeling, SQL analytics, demand forecasting, and decision-oriented dashboards.
 
 ### 🗄️ SQL / Database
