@@ -34,6 +34,7 @@ optimize operations, and support data-driven strategic decisions.
 
 ### Data Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Orange](https://img.shields.io/badge/Orange-FAA916?style=for-the-badge&logoColor=white)
 ![Gephi](https://img.shields.io/badge/Gephi-4E6E8E?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
