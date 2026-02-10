@@ -124,4 +124,5 @@ optimize operations, and support data-driven strategic decisions.
  
 ---
 
-![Hyuntae’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true&theme=dark)
+![Hyuntae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true&theme=default)
+
