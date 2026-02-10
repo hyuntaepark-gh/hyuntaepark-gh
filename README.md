@@ -125,5 +125,4 @@ optimize operations, and support data-driven strategic decisions.
 ---
 
 ## 📊 GitHub Activity
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true&hide_title=true&cache_seconds=86400" alt="Hyuntae's GitHub stats" />
+![Hyuntae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true)
