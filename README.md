@@ -74,7 +74,7 @@ optimize operations, and support data-driven strategic decisions.
   End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema data warehouse modeling, SQL analytics, demand forecasting, and decision-oriented dashboards.
 
 ### 🗄️ SQL / Database
-- **[AWS SQL Database Analysis (EC2 + Apache + CGI + MariaDB)](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analysis)**  
+- **[AWS SQL Database Analysis (EC2 + Apache + CGI + MariaDB)](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics)**  
   Built a web-based SQL query system deployed on AWS EC2, including query execution, price filtering, and Excel export.
 
 - **[Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics)**  
