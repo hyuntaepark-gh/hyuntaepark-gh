@@ -43,6 +43,7 @@ optimize operations, and support data-driven strategic decisions.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black)
+![Apache HTTP Server](https://img.shields.io/badge/Apache-HTTP%20Server-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Database & Querying
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
