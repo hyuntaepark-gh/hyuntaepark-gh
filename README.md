@@ -77,7 +77,7 @@ optimize operations, and support data-driven strategic decisions.
   End-to-end retail analytics project covering raw data ingestion, ETL pipelines, star-schema data warehouse modeling, SQL analytics, demand forecasting, and decision-oriented dashboards.
 
 - **[AI-Executive-KPI-Intelligence-Micro-SaaS (FastAPI + Docker + PostgreSQL)](https://github.com/hyuntaepark-gh/AI-Executive-KPI-Intelligence-Micro-SaaS)** ✨       
-  Production-style analytics microservice that generates automated KPI reports, revenue driver insights, and narrative business recommendations via REST API. Demonstrates data engineering, backend analytics logic, and SaaS-style decision intelligence.
+  AI Decision Intelligence Micro-SaaS backend - KPI driver analysis, anomaly detection, async AI jobs, and executive insights via FastAPI.
 
 ### 🗄️ SQL / Database
 
