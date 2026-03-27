@@ -74,7 +74,7 @@ spanning SQL analytics, cloud deployment, forecasting, and AI-powered insight ge
 
 ### 🏬 Data Engineering / Data Warehouse
 - ⭐ **[End-to-End Retail Data Warehouse](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**  
-  End-to-end retail analytics system covering ETL pipelines, star-schema modeling, SQL analytics, KPI design, forecasting, and executive dashboards.
+  End-to-end retail data platform transforming raw data into decision-ready insights through ETL, dimensional modeling, analytics, and forecasting.
 
 - ⭐ **[AI-Executive-KPI-Intelligence-Micro-SaaS (FastAPI + Docker + PostgreSQL)](https://github.com/hyuntaepark-gh/AI-Executive-KPI-Intelligence-Micro-SaaS)**  
   AI-powered decision intelligence backend with KPI driver analysis, anomaly detection, async processing, and executive-level insights.
