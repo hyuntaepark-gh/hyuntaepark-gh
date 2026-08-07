@@ -105,69 +105,60 @@
 
 ---
 
-## 🚀 Featured Projects (By Category)
+## 🚀 Featured Projects
 
-### 📦 Forecasting / Operations
-- ⭐ **[AI Warehouse Shipment Forecasting (In Progress)](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting)**  
-  AI-powered shipment forecasting and decision-support framework to improve operational efficiency, reduce delay risks, and optimize logistics performance.
+### ⚾ Baseball Live Analytics
+
+⭐ **Baseball Live Analytics**
+
+Real-time MLB analytics platform combining live game tracking, player intelligence, team analytics, transactions, trade intelligence, and advanced performance insights.
+
+- Live pitch-by-pitch game tracking
+- Player Intelligence Center
+- Team & roster analytics
+- Trade and transaction intelligence
+- Probable pitcher analysis
+- Advanced performance rankings
+
+**Stack:** Python · FastAPI · PostgreSQL · React · REST APIs
+
+🔴 [Live Demo](https://baseball-live-analytics.onrender.com/)
 
 ---
 
 ### 🏬 Data Engineering / Data Warehouse
+
 - ⭐ **[End-to-End Retail Data Warehouse](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**  
-  End-to-end retail data platform transforming raw data into decision-ready insights through ETL, dimensional modeling, analytics, and forecasting.
-
-- ⭐ **[AI-Executive-KPI-Intelligence-Micro-SaaS (FastAPI + Docker + PostgreSQL)](https://github.com/hyuntaepark-gh/AI-Executive-KPI-Intelligence-Micro-SaaS)**  
-  AI-powered decision intelligence backend with KPI driver analysis, anomaly detection, async processing, and executive-level insights.
+  End-to-end retail data platform transforming raw operational data into decision-ready insights through ETL, dimensional modeling, KPI analytics, and forecasting-ready data marts.
 
 ---
 
-### 🗄️ SQL / Database
+### 🗄️ SQL / Business Analytics
 
-- **[Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics)**  
-  Advanced SQL analytics using the Olist dataset, focusing on KPI engineering, cohort analysis, funnel modeling, and revenue driver decomposition.
+- ⭐ **[Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics)**  
+  Advanced PostgreSQL analytics covering KPI engineering, revenue driver decomposition, cohort retention, order lifecycle analysis, and seller performance.
 
-- **[AWS SQL Database Analysis (EC2 + Apache + CGI + MariaDB)](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics)**  
-  Designed and deployed a database-driven web application on AWS EC2 integrating SQL execution, server-side processing, and automated Excel reporting.
-
----
-
-### 🧠 Business Analytics / Decision Modeling
-- **[Customer Churn Decision Analytics (In Progress)](https://github.com/hyuntaepark-gh/Customer-Churn-Decision-Analytics)**  
-  Decision-oriented churn modeling emphasizing cost-sensitive optimization, threshold tuning, and profit-based intervention strategies.
+- **[AWS SQL Database Analysis](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics)**  
+  Database-driven analytics application deployed on AWS EC2 using MariaDB, Apache, server-side processing, and automated reporting.
 
 ---
 
-### 🏢 ERP / SAP
+### 🏢 Enterprise Analytics
+
 - **[SAP S/4HANA Labs – ERP Process & Cost Flow Analysis](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)**  
-  Hands-on ERP process modeling and integrated cost flow analysis using SAP S/4HANA (O2C, MM, PP, CO).
+  ERP process and integrated cost-flow analysis across O2C, MM, PP, and CO using SAP S/4HANA.
 
----
-
-### 📊 BI / Visualization
 - **[Tableau Visualization Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)**  
   Business dashboards and KPI visualization projects developed in Tableau.
 
 ---
 
-### 🌐 Web Data
-- **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)**  
-  Automated data collection pipeline for structured airport-related data analysis.
+## 📚 Additional Analytics Projects
 
----
-
-### 🤖 Machine Learning
-- **[Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)**  
-  Regression-based time-series modeling for cryptocurrency trend analysis.
-
----
-
-### ⚾ Sports Analytics
-- **[Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)**  
-  Performance analytics and team optimization insights using Python and statistical modeling.
-
-- **[EPL Team Style Analysis & Match Prediction System](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)**  
-  Match prediction using PCA, MDS, clustering, and dimensionality reduction techniques.
+- 🌐 **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)** — Automated web data collection and structured analysis.
+- ₿ **[Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)** — Regression-based financial trend analysis using Python.
+- ⚾ **[Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** — Baseball performance analytics and statistical modeling.
+- ⚽ **[EPL Team Style Analysis & Match Prediction System](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)** — PCA, MDS, clustering, and predictive modeling for football analytics.
 
 ---
 
