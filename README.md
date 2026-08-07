@@ -17,29 +17,26 @@
 <br>
 
 <p>
-  <a href="https://www.rutgers.edu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/rutgers-logo.png"
-         height="20"
-         alt="Rutgers University">
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/rutgers-logo.png"
+    height="26"
+    alt="Rutgers University">
   &nbsp;
   <strong>Rutgers University</strong>
   &nbsp;—&nbsp;
   M.S. Information Technology &amp; Analytics
 
-  <br><br>
+  <br>
 
-  <a href="https://www.baruch.cuny.edu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/baruch-logo.png"
-         height="20"
-         alt="Baruch College">
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/baruch-logo.png"
+    height="26"
+    alt="Baruch College">
   &nbsp;
   <strong>Baruch College</strong>
   &nbsp;—&nbsp;
   B.B.A. in Marketing Analytics
 </p>
-
 <p>
   📊 <strong>Data Analytics</strong> |
   🏗️ <strong>Data Engineering</strong> |
