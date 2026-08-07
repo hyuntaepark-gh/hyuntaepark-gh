@@ -48,7 +48,7 @@
   📊 <strong>Data Analytics</strong> |
   🏗️ <strong>Data Engineering</strong> |
   🗄️ <strong>SQL &amp; Databases</strong> |
-  🤖 <strong>AI-Powered Decision Systems</strong>
+  🤖 <strong>Decision Intelligence &amp; AI</strong>
 </p>
 
 <p>
