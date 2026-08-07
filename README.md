@@ -19,8 +19,10 @@
 <p>
   <img
     src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/rutgers-logo.png"
-    height="26"
-    alt="Rutgers University">
+    width="34"
+    height="34"
+    alt="Rutgers University"
+    align="middle">
   &nbsp;
   <strong>Rutgers University</strong>
   &nbsp;—&nbsp;
@@ -30,13 +32,18 @@
 
   <img
     src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/baruch-logo.png"
-    height="26"
-    alt="Baruch College">
+    width="34"
+    height="34"
+    alt="Baruch College"
+    align="middle">
   &nbsp;
   <strong>Baruch College</strong>
   &nbsp;—&nbsp;
   B.B.A. in Marketing Analytics
 </p>
+
+<br>
+
 <p>
   📊 <strong>Data Analytics</strong> |
   🏗️ <strong>Data Engineering</strong> |
