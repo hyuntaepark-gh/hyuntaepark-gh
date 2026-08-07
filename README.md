@@ -180,6 +180,7 @@
 ---
 
 ## 📊 GitHub Activity
+
 Consistent builder focused on production-style data systems and decision intelligence.
 
-![Hyuntae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntaepark-gh&show_icons=true)
+![Hyuntae's GitHub stats](./profile/stats.svg)
