@@ -1,22 +1,37 @@
-# Hi, I'm Hyuntae Park 👋
+<h1>Hi, I'm Hyuntae Park 👋</h1>
 
-<p align="left">
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:hyuntae.park.j@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hyuntae-park-in">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://hyuntaepark-gh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=linktree&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-### 🎓 MS Business Analytics Student | 📊 Data Engineering & Analytics | 🗄️ SQL & Database | ☁️ Cloud Deployment  
+<p>
+  🎓 <strong>M.S. Information Technology &amp; Analytics</strong> @ Rutgers University
+  <br>
+  🎓 <strong>B.B.A. in Marketing Analytics</strong> @ Baruch College
+</p>
 
-I design and engineer data systems that transform raw data into decision-ready intelligence —  
-spanning SQL analytics, cloud deployment, forecasting, and AI-powered insight generation.
+<p>
+  📊 <strong>Data Analytics</strong> |
+  🏗️ <strong>Data Engineering</strong> |
+  🗄️ <strong>SQL &amp; Databases</strong> |
+  🤖 <strong>AI-Powered Decision Systems</strong>
+</p>
 
+<p>
+  I build data products that transform raw data into decision-ready intelligence —
+  <br>
+  from data pipelines and SQL analytics to real-time applications, forecasting, and AI-powered insights.
+</p>
+
+<hr>
 ---
 
 ## 🔧 Skills & Tools
