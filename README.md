@@ -1,14 +1,14 @@
 <h1>Hi, I'm Hyuntae Park 👋</h1>
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://hyuntaepark-gh.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hyuntae-park-in" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:hyuntae.park.j@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -17,15 +17,19 @@
 <br>
 
 <p>
-  <a href="https://www.rutgers.edu/">
-    <img src="./assets/rutgers-logo.png" width="18" height="18" alt="Rutgers University">
+  <a href="https://www.rutgers.edu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/rutgers-logo.png"
+         height="20"
+         alt="Rutgers University">
   </a>
   &nbsp;
   <strong>M.S. Information Technology &amp; Analytics</strong> @ Rutgers University
-  <br>
+  <br><br>
 
-  <a href="https://www.baruch.cuny.edu/">
-    <img src="./assets/baruch-logo.png" width="18" height="18" alt="Baruch College">
+  <a href="https://www.baruch.cuny.edu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/baruch-logo.png"
+         height="20"
+         alt="Baruch College">
   </a>
   &nbsp;
   <strong>B.B.A. in Marketing Analytics</strong> @ Baruch College
@@ -45,7 +49,6 @@
 </p>
 
 <hr>
-
 ---
 
 ## 🔧 Skills & Tools
