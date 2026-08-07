@@ -23,7 +23,10 @@
          alt="Rutgers University">
   </a>
   &nbsp;
-  <strong>M.S. Information Technology &amp; Analytics</strong> @ Rutgers University
+  <strong>Rutgers University</strong>
+  &nbsp;—&nbsp;
+  M.S. Information Technology &amp; Analytics
+
   <br><br>
 
   <a href="https://www.baruch.cuny.edu/" target="_blank">
@@ -32,7 +35,9 @@
          alt="Baruch College">
   </a>
   &nbsp;
-  <strong>B.B.A. in Marketing Analytics</strong> @ Baruch College
+  <strong>Baruch College</strong>
+  &nbsp;—&nbsp;
+  B.B.A. in Marketing Analytics
 </p>
 
 <p>
