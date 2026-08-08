@@ -62,12 +62,32 @@
 
 ## 🔧 Skills & Tools
 
-### Programming & Analytics  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<h3>Programming & Analytics</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+       width="36" height="36" alt="Python" title="Python">
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+       width="36" height="36" alt="R" title="R">
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+       width="36" height="36" alt="SQL" title="SQL">
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+       width="36" height="36" alt="Pandas" title="Pandas">
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+       width="36" height="36" alt="NumPy" title="NumPy">
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+       width="36" height="36" alt="Scikit-learn" title="Scikit-learn">
+</p>
 
 ### AI & ML
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
