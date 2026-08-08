@@ -127,7 +127,14 @@
 
 ### ⚾ Baseball Live Analytics
 
-<img src="./img/baseball-live-analytics.jpg" width="100%" alt="Baseball Live Analytics">
+<p align="center">
+  <a href="https://baseball-live-analytics.onrender.com/">
+    <img
+      src="./img/baseball-live-analytics.jpg"
+      width="680"
+      alt="Baseball Live Analytics">
+  </a>
+</p>
 
 Real-time MLB analytics platform for live game tracking, player intelligence, team analytics, transactions, and trade intelligence.
 
@@ -135,14 +142,22 @@ Real-time MLB analytics platform for live game tracking, player intelligence, te
 - Player & team intelligence
 - Trade and transaction tracking
 
-**Tech:** Python · FastAPI · PostgreSQL · React · REST APIs  
+**Tech:** Python · FastAPI · PostgreSQL · React · REST APIs
+
 🔴 **[Live Demo](https://baseball-live-analytics.onrender.com/)**
 
 ---
 
 ### 🏬 End-to-End Retail Data Warehouse
 
-<img src="./img/retail-data-warehouse.jpg" width="100%" alt="End-to-End Retail Data Warehouse">
+<p align="center">
+  <a href="https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse">
+    <img
+      src="./img/retail-data-warehouse.jpg"
+      width="680"
+      alt="End-to-End Retail Data Warehouse">
+  </a>
+</p>
 
 End-to-end retail data platform transforming raw operational data into analytics-ready dimensional models and decision-ready KPI marts.
 
@@ -150,14 +165,22 @@ End-to-end retail data platform transforming raw operational data into analytics
 - KPI and metric-layer design
 - Analytics-ready data marts
 
-**Tech:** SQL · PostgreSQL · ETL · Dimensional Modeling · Analytics Engineering  
+**Tech:** SQL · PostgreSQL · ETL · Dimensional Modeling · Analytics Engineering
+
 📁 **[Repository](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**
 
 ---
 
 ### 🗄️ Olist SQL Analytics
 
-<img src="./img/olist-sql-analytics.jpg" width="100%" alt="Olist SQL Analytics">
+<p align="center">
+  <a href="https://github.com/hyuntaepark-gh/olist-sql-analytics">
+    <img
+      src="./img/olist-sql-analytics.jpg"
+      width="680"
+      alt="Olist SQL Analytics">
+  </a>
+</p>
 
 Advanced e-commerce analytics covering revenue drivers, cohort retention, customer behavior, delivery performance, and seller risk.
 
@@ -165,7 +188,8 @@ Advanced e-commerce analytics covering revenue drivers, cohort retention, custom
 - Cohort retention analysis
 - Delivery & seller performance
 
-**Tech:** PostgreSQL · Advanced SQL · KPI Engineering · Cohort Analysis  
+**Tech:** PostgreSQL · Advanced SQL · KPI Engineering · Cohort Analysis
+
 📁 **[Repository](https://github.com/hyuntaepark-gh/olist-sql-analytics)**
 
 ---
