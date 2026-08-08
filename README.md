@@ -64,152 +64,52 @@
 ### Programming & Analytics
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-       height="26" alt="Python" align="middle">
-  &nbsp;<strong>Python</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-       height="26" alt="SQL" align="middle">
-  &nbsp;<strong>SQL</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
-       height="26" alt="R" align="middle">
-  &nbsp;<strong>R</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-       height="26" alt="Pandas" align="middle">
-  &nbsp;<strong>Pandas</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
-       height="26" alt="NumPy" align="middle">
-  &nbsp;<strong>NumPy</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-       height="26" alt="Scikit-learn" align="middle">
-  &nbsp;<strong>Scikit-learn</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="26" alt="Python" align="middle"> <strong>Python</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="26" alt="SQL" align="middle"> <strong>SQL</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="26" alt="R" align="middle"> <strong>R</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="26" alt="Pandas" align="middle"> <strong>Pandas</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="26" alt="NumPy" align="middle"> <strong>NumPy</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="26" alt="Scikit-learn" align="middle"> <strong>Scikit-learn</strong>
 </p>
 
 ### AI & ML
 
 <p>
-  <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/openai-logo.png"
-       height="26" alt="OpenAI" align="middle">
-  &nbsp;<strong>LLM / OpenAI</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-       height="26" alt="PyTorch" align="middle">
-  &nbsp;<strong>PyTorch</strong>
+<img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/openai-logo.png" height="26" alt="OpenAI" align="middle"> <strong>LLM / OpenAI</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="26" alt="PyTorch" align="middle"> <strong>PyTorch</strong>
 </p>
 
-### Data Engineering & Application Development
+### Data Engineering & Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-       height="26" alt="PostgreSQL" align="middle">
-  &nbsp;<strong>PostgreSQL</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-       height="26" alt="MySQL" align="middle">
-  &nbsp;<strong>MySQL</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
-       height="26" alt="MariaDB" align="middle">
-  &nbsp;<strong>MariaDB</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-       height="26" alt="FastAPI" align="middle">
-  &nbsp;<strong>FastAPI</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-       height="26" alt="React" align="middle">
-  &nbsp;<strong>React</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-       height="26" alt="Docker" align="middle">
-  &nbsp;<strong>Docker</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="26" alt="PostgreSQL" align="middle"> <strong>PostgreSQL</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="26" alt="MySQL" align="middle"> <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="26" alt="MariaDB" align="middle"> <strong>MariaDB</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="26" alt="FastAPI" align="middle"> <strong>FastAPI</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="26" alt="React" align="middle"> <strong>React</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="26" alt="Docker" align="middle"> <strong>Docker</strong>
 </p>
 
-### Cloud & Deployment
+### Cloud & BI
 
 <p>
-  <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/aws-logo.png"
-       height="26" alt="AWS" align="middle">
-  &nbsp;<strong>AWS</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/render/46E3B7"
-       height="26" alt="Render" align="middle">
-  &nbsp;<strong>Render</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-       height="26" alt="Linux" align="middle">
-  &nbsp;<strong>Linux</strong>
+<img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/aws-logo.png" height="26" alt="AWS" align="middle"> <strong>AWS</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="26" alt="Render" align="middle"> <strong>Render</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="26" alt="Linux" align="middle"> <strong>Linux</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/tableau-logo.png" height="26" alt="Tableau" align="middle"> <strong>Tableau</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/powerbi-logo.png" height="26" alt="Power BI" align="middle"> <strong>Power BI</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/excel-logo.png" height="26" alt="Excel" align="middle"> <strong>Excel</strong>
 </p>
 
-### BI & Visualization
+### Enterprise & Development Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/tableau-logo.png"
-       height="26" alt="Tableau" align="middle">
-  &nbsp;<strong>Tableau</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/powerbi-logo.png"
-       height="26" alt="Power BI" align="middle">
-  &nbsp;<strong>Power BI</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/hyuntaepark-gh/hyuntaepark-gh.github.io/main/img/excel-logo.png"
-       height="26" alt="Excel" align="middle">
-  &nbsp;<strong>Excel</strong>
-</p>
-
-### Enterprise Systems
-
-<p>
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF"
-       height="26" alt="SAP" align="middle">
-  &nbsp;<strong>SAP S/4HANA</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/quickbooks/2CA01C"
-       height="26" alt="QuickBooks" align="middle">
-  &nbsp;<strong>QuickBooks</strong>
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-       height="26" alt="Git" align="middle">
-  &nbsp;<strong>Git</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-       height="26" alt="GitHub" align="middle">
-  &nbsp;<strong>GitHub</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-       height="26" alt="VS Code" align="middle">
-  &nbsp;<strong>VS Code</strong>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
-       height="26" alt="Jupyter" align="middle">
-  &nbsp;<strong>Jupyter</strong>
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" height="26" alt="SAP" align="middle"> <strong>SAP S/4HANA</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/quickbooks/2CA01C" height="26" alt="QuickBooks" align="middle"> <strong>QuickBooks</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="26" alt="Git" align="middle"> <strong>Git</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="26" alt="GitHub" align="middle"> <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="26" alt="VS Code" align="middle"> <strong>VS Code</strong>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="26" alt="Jupyter" align="middle"> <strong>Jupyter</strong>
 </p>
 
 <hr>
