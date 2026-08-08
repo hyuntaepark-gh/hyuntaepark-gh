@@ -200,6 +200,8 @@ Advanced e-commerce analytics covering revenue drivers, cohort retention, custom
 ☁️ **[AWS SQL Database Analytics](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics)** ·
 📊 **[Tableau Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)**
 
+<br>
+
 🌐 **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)** ·
 ₿ **[Bitcoin Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)** ·
 ⚾ **[Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** ·
