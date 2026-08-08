@@ -127,7 +127,13 @@
 
 ### ⚾ Baseball Live Analytics
 
+<img src="./img/baseball-live-analytics.jpg" width="100%" alt="Baseball Live Analytics">
+
 Real-time MLB analytics platform for live game tracking, player intelligence, team analytics, transactions, and trade intelligence.
+
+- Live pitch-by-pitch analytics
+- Player & team intelligence
+- Trade and transaction tracking
 
 **Tech:** Python · FastAPI · PostgreSQL · React · REST APIs  
 🔴 **[Live Demo](https://baseball-live-analytics.onrender.com/)**
@@ -136,7 +142,13 @@ Real-time MLB analytics platform for live game tracking, player intelligence, te
 
 ### 🏬 End-to-End Retail Data Warehouse
 
+<img src="./img/retail-data-warehouse.jpg" width="100%" alt="End-to-End Retail Data Warehouse">
+
 End-to-end retail data platform transforming raw operational data into analytics-ready dimensional models and decision-ready KPI marts.
+
+- ETL pipeline & dimensional modeling
+- KPI and metric-layer design
+- Analytics-ready data marts
 
 **Tech:** SQL · PostgreSQL · ETL · Dimensional Modeling · Analytics Engineering  
 📁 **[Repository](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**
@@ -145,7 +157,13 @@ End-to-end retail data platform transforming raw operational data into analytics
 
 ### 🗄️ Olist SQL Analytics
 
+<img src="./img/olist-sql-analytics.jpg" width="100%" alt="Olist SQL Analytics">
+
 Advanced e-commerce analytics covering revenue drivers, cohort retention, customer behavior, delivery performance, and seller risk.
+
+- Revenue driver decomposition
+- Cohort retention analysis
+- Delivery & seller performance
 
 **Tech:** PostgreSQL · Advanced SQL · KPI Engineering · Cohort Analysis  
 📁 **[Repository](https://github.com/hyuntaepark-gh/olist-sql-analytics)**
