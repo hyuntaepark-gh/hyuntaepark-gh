@@ -59,8 +59,6 @@
 
 <hr>
 
-<hr>
-
 ## 🔧 Skills & Tools
 
 ### Programming & Analytics
