@@ -202,7 +202,7 @@ Advanced e-commerce analytics covering revenue drivers, cohort retention, custom
 
 <br>
 
-🌐 **[JFK Airport Web Scraping](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)** ·
+🌐 **[JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Web-Scraping)** ·
 ₿ **[Bitcoin Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)** ·
 ⚾ **[Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** ·
 ⚽ **[EPL Match Prediction](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)**
