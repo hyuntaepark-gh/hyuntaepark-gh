@@ -225,9 +225,6 @@ A scientific literature research framework integrating information retrieval, re
 
 ## 📚 Additional Analytics Projects
 
-
-## 📚 Additional Analytics Projects
-
 | Project | Focus |
 |---|---|
 | ✈️ [JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Flight-Delay-Analysis) | Web scraping, exploratory analysis, flight delay patterns |
