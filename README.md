@@ -205,10 +205,10 @@ A scientific literature research framework integrating information retrieval, re
 
 | Project | Focus |
 |---|---|
-| [IDC Adversarial Robustness](https://github.com/hyuntaepark-gh/IDC-Adversarial-Robustness) | Deep learning, adversarial attacks, model robustness, explainable AI |
-| [MLB Statcast Comprehensive Analytics](https://github.com/hyuntaepark-gh/MLB-Statcast-Comprehensive-Analytics) | Pitch-level analytics, statistical modeling, historical comparisons, predictive ML |
-| [AI Warehouse Shipment Forecasting](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting) | Time-series forecasting, operational analytics, decision support |
-| [EPL Team Style & Match Prediction](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System) | Unsupervised learning, clustering, PCA, match prediction |
+| 🧬 [IDC Adversarial Robustness](https://github.com/hyuntaepark-gh/IDC-Adversarial-Robustness) | Deep learning, adversarial attacks, model robustness, explainable AI |
+| ⚾ [MLB Statcast Comprehensive Analytics](https://github.com/hyuntaepark-gh/MLB-Statcast-Comprehensive-Analytics) | Pitch-level analytics, statistical modeling, predictive ML |
+| 🏭 [AI Warehouse Shipment Forecasting](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting) | Time-series forecasting, operational analytics, decision support |
+| ⚽ [EPL Team Style & Match Prediction](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System) | Unsupervised learning, clustering, PCA, match prediction |
 
 ---
 
@@ -216,10 +216,10 @@ A scientific literature research framework integrating information retrieval, re
 
 | Project | Focus |
 |---|---|
-| [Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics) | Advanced SQL, revenue analysis, cohort retention, business KPIs |
-| [Tableau Visualization Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects) | Business intelligence, interactive dashboards, data storytelling |
-| [SAP S/4HANA Labs](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs) | Enterprise systems, ERP processes, business operations |
-| [AWS SQL Database Analytics](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics) | Relational databases, SQL analysis, database design |
+| 🛒 [Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics) | Advanced SQL, revenue analysis, cohort retention, business KPIs |
+| 📈 [Tableau Visualization Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects) | Business intelligence, dashboards, data storytelling |
+| 🏢 [SAP S/4HANA Labs](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs) | Enterprise systems, ERP processes, business operations |
+| ☁️ [AWS SQL Database Analytics](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics) | Relational databases, SQL analysis, database design |
 
 ---
 
