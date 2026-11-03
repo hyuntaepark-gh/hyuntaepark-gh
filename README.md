@@ -123,24 +123,61 @@
 
 <hr>
 
+
+---
+
 ## 🚀 Featured Projects
+
+### 🏬 End-to-End Retail Data Warehouse
+
+<p align="center">
+  <a href="https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse">
+    <img src="./img/retail-data-warehouse.jpg" width="680" alt="Retail Data Warehouse">
+  </a>
+</p>
+
+An end-to-end retail data warehouse connecting raw operational data, ETL workflows, dimensional modeling, and business intelligence.
+
+- Data ingestion, transformation, and validation
+- Star schema and dimensional data modeling
+- KPI development and analytics-ready data marts
+- Revenue, customer, product, and operational analysis
+
+**Tech:** Python · SQL · PostgreSQL · ETL · Dimensional Modeling
+
+📁 **[Repository](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**
+
+---
+
+### 🧠 AI Executive KPI Intelligence Micro-SaaS
+
+An AI-powered analytics backend designed to transform business questions into structured KPI analysis and executive insights.
+
+- SQL-driven KPI and business driver analysis
+- Anomaly detection and risk identification
+- AI-assisted executive reporting
+- REST APIs, asynchronous jobs, and containerized infrastructure
+
+**Tech:** Python · FastAPI · PostgreSQL · Docker · LLM Integration
+
+📁 **[Repository](https://github.com/hyuntaepark-gh/AI-Executive-KPI-Intelligence-Micro-SaaS)**
+
+---
 
 ### ⚾ Baseball Live Analytics
 
 <p align="center">
   <a href="https://baseball-live-analytics.onrender.com/">
-    <img
-      src="./img/baseball-live-analytics.jpg"
-      width="680"
-      alt="Baseball Live Analytics">
+    <img src="./img/baseball-live-analytics.jpg" width="680" alt="Baseball Live Analytics">
   </a>
 </p>
 
-Real-time MLB analytics platform for live game tracking, player intelligence, team analytics, transactions, and trade intelligence.
+An MLB analytics web application integrating live game information, player and team statistics, and baseball intelligence.
 
-- Live pitch-by-pitch analytics
-- Player & team intelligence
+- Live pitch-by-pitch game analytics
+- Player and team performance insights
 - Trade and transaction tracking
+- API-driven data integration and interactive visualization
 
 **Tech:** Python · FastAPI · PostgreSQL · React · REST APIs
 
@@ -148,61 +185,54 @@ Real-time MLB analytics platform for live game tracking, player intelligence, te
 
 ---
 
-### 🏬 End-to-End Retail Data Warehouse
+### 🔬 Advanced LLM Scientific Research System
 
-<p align="center">
-  <a href="https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse">
-    <img
-      src="./img/retail-data-warehouse.jpg"
-      width="680"
-      alt="End-to-End Retail Data Warehouse">
-  </a>
-</p>
+A scientific literature research framework integrating information retrieval, retrieval-augmented generation, and evidence-grounded analysis.
 
-End-to-end retail data platform transforming raw operational data into analytics-ready dimensional models and decision-ready KPI marts.
+- Lexical, semantic, and hybrid document retrieval
+- BM25, TF-IDF, and retrieval ranking experiments
+- Research-paper comparison and citation analysis
+- Evidence verification and reproducible evaluation workflows
 
-- ETL pipeline & dimensional modeling
-- KPI and metric-layer design
-- Analytics-ready data marts
+**Focus:** Python · RAG · Information Retrieval · LLM · Research Evaluation
 
-**Tech:** SQL · PostgreSQL · ETL · Dimensional Modeling · Analytics Engineering
-
-📁 **[Repository](https://github.com/hyuntaepark-gh/End-To-End-Retail-Data-Warehouse)**
+📁 **[Repository](https://github.com/hyuntaepark-gh/Advanced-LLM-Scientific-Research-System)**
 
 ---
 
-### 🗄️ Olist SQL Analytics
+## 🧪 Applied Machine Learning & Research
 
-<p align="center">
-  <a href="https://github.com/hyuntaepark-gh/olist-sql-analytics">
-    <img
-      src="./img/olist-sql-analytics.jpg"
-      width="680"
-      alt="Olist SQL Analytics">
-  </a>
-</p>
-
-Advanced e-commerce analytics covering revenue drivers, cohort retention, customer behavior, delivery performance, and seller risk.
-
-- Revenue driver decomposition
-- Cohort retention analysis
-- Delivery & seller performance
-
-**Tech:** PostgreSQL · Advanced SQL · KPI Engineering · Cohort Analysis
-
-📁 **[Repository](https://github.com/hyuntaepark-gh/olist-sql-analytics)**
+| Project | Focus |
+|---|---|
+| [IDC Adversarial Robustness](https://github.com/hyuntaepark-gh/IDC-Adversarial-Robustness) | Deep learning, adversarial attacks, model robustness, explainable AI |
+| [MLB Statcast Comprehensive Analytics](https://github.com/hyuntaepark-gh/MLB-Statcast-Comprehensive-Analytics) | Pitch-level analytics, statistical modeling, historical comparisons, predictive ML |
+| [AI Warehouse Shipment Forecasting](https://github.com/hyuntaepark-gh/Ai-Warehouse-Shipment-Forecasting) | Time-series forecasting, operational analytics, decision support |
+| [EPL Team Style & Match Prediction](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System) | Unsupervised learning, clustering, PCA, match prediction |
 
 ---
 
-## 📚 More Projects
+## 📊 Business Analytics & Data Intelligence
 
-🏢 **[SAP S/4HANA Labs](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs)** ·
-☁️ **[AWS SQL Database Analytics](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics)** ·
-📊 **[Tableau Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects)**
+| Project | Focus |
+|---|---|
+| [Olist SQL Analytics](https://github.com/hyuntaepark-gh/olist-sql-analytics) | Advanced SQL, revenue analysis, cohort retention, business KPIs |
+| [Tableau Visualization Projects](https://github.com/hyuntaepark-gh/Tableau-Visualization-Projects) | Business intelligence, interactive dashboards, data storytelling |
+| [SAP S/4HANA Labs](https://github.com/hyuntaepark-gh/SAP-S4HANA-Labs) | Enterprise systems, ERP processes, business operations |
+| [AWS SQL Database Analytics](https://github.com/hyuntaepark-gh/AWS-SQL-Database-Analytics) | Relational databases, SQL analysis, database design |
 
-<br>
+---
 
-🌐 **[JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Flight-Delay-Analysis)** ·
-₿ **[Bitcoin Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)** ·
-⚾ **[Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)** ·
-⚽ **[EPL Match Prediction](https://github.com/hyuntaepark-gh/EPL-Team-Style-Analysis-Match-Prediction-System)**
+## 📚 Additional Analytics Projects
+
+- ✈️ [JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Flight-Delay-Analysis)
+- ₿ [Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)
+- ⚾ [Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
+
+---
+
+## 🌐 Portfolio & Connect
+
+Explore my complete portfolio, including project documentation and interactive applications.
+
+🌐 **[Portfolio Website](https://hyuntaepark-gh.github.io/)** ·
+💼 **[LinkedIn](https://www.linkedin.com/in/hyuntae-park-in)**
