@@ -61,9 +61,10 @@
 </p>
 
 <p>
-  I build data products that transform raw data into decision-ready intelligence —
+  I build end-to-end data systems that turn raw information into actionable insights — from data pipelines and analytics engineering to predictive modeling, real-time applications, and evidence-grounded AI.
+
   <br>
-  from data pipelines and SQL analytics to real-time applications, forecasting, and AI-powered insights.
+  My work focuses on building reliable, reproducible, and decision-oriented data solutions across business analytics, scientific research, and applied machine learning.
 </p>
 
 <hr>
