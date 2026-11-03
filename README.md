@@ -225,6 +225,11 @@ A scientific literature research framework integrating information retrieval, re
 
 ## 📚 Additional Analytics Projects
 
-- ✈️ [JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Flight-Delay-Analysis)
-- ₿ [Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis)
-- ⚾ [Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis)
+
+## 📚 Additional Analytics Projects
+
+| Project | Focus |
+|---|---|
+| ✈️ [JFK Airport Flight Delay Analysis](https://github.com/hyuntaepark-gh/JFK-Airport-Flight-Delay-Analysis) | Web scraping, exploratory analysis, flight delay patterns |
+| ₿ [Bitcoin Price Regression Analysis](https://github.com/hyuntaepark-gh/Bitcoin-Price-Regression-Analysis) | Regression modeling, financial indicators, exploratory analysis |
+| ⚾ [Moneyball Analysis](https://github.com/hyuntaepark-gh/Moneyball-Analysis) | Sabermetrics, player evaluation, baseball statistics |
